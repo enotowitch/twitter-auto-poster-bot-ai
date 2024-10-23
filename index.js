@@ -25,7 +25,7 @@ async function run() {
 
   // Write your prompt here
   const prompt =
-    `generate VERY similar post for X(twitter), it should be unique; under 280 characters. Use emoji for every item in a list
+    `generate VERY similar post for X(twitter), it should be unique; under 280 characters. Use emoji for every item in a list. Must include #connect
 
 example: 
 
